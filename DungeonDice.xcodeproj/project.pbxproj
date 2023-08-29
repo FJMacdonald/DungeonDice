@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		99CCAE202A97428300BBBC1B /* ButtonLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CCAE1F2A97428300BBBC1B /* ButtonLayout.swift */; };
 		99D8954D2A964A4700F30E1C /* DungeonDiceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D8954C2A964A4700F30E1C /* DungeonDiceApp.swift */; };
 		99D8954F2A964A4700F30E1C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D8954E2A964A4700F30E1C /* ContentView.swift */; };
 		99D895512A964A4A00F30E1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99D895502A964A4A00F30E1C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		99CCAE1F2A97428300BBBC1B /* ButtonLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLayout.swift; sourceTree = "<group>"; };
 		99D895492A964A4700F30E1C /* DungeonDice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DungeonDice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99D8954C2A964A4700F30E1C /* DungeonDiceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonDiceApp.swift; sourceTree = "<group>"; };
 		99D8954E2A964A4700F30E1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				99D8954C2A964A4700F30E1C /* DungeonDiceApp.swift */,
 				99D8954E2A964A4700F30E1C /* ContentView.swift */,
+				99CCAE1F2A97428300BBBC1B /* ButtonLayout.swift */,
 				99D895502A964A4A00F30E1C /* Assets.xcassets */,
 				99D895522A964A4A00F30E1C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99CCAE202A97428300BBBC1B /* ButtonLayout.swift in Sources */,
 				99D8954F2A964A4700F30E1C /* ContentView.swift in Sources */,
 				99D8954D2A964A4700F30E1C /* DungeonDiceApp.swift in Sources */,
 			);
